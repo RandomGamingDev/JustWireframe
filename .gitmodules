@@ -1,0 +1,6 @@
+[submodule "JustEzAL"]
+	path = EzAL
+	url = https://github.com/RandomGamingDev/JustEzAL
+[submodule "JustEzGL"]
+	path = EzGL
+	url = https://github.com/RandomGamingDev/JustEzGL
